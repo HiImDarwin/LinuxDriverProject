@@ -1,0 +1,6 @@
+# 編譯產物
+*.o*
+*.ko*
+*.mod*
+*.symvers*
+modules.order
